@@ -1,0 +1,32 @@
+{
+  "name": "URL_Shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellboy95/URL_Shortner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellboy95/URL_Shortner/issues"
+  },
+  "homepage": "https://github.com/hellboy95/URL_Shortner#readme",
+  "dependencies": {
+    "config": "^3.2.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemod": "^1.5.19",
+    "nodemon": "^1.19.3"
+  }
+}

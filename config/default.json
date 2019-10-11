@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ajaypal95:Kookybasil1!@cluster0-s3qcm.mongodb.net/test?retryWrites=true&w=majority",
+  "baseURL": "http:localhost:5000"
+}
