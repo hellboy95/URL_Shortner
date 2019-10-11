@@ -1,8 +1,8 @@
 const express = require('express');
 
-console.log('beofre');
+
 const connectDB = require('./config/db.js');
-console.log('after');
+
 
 const app = express();
 
