@@ -57,7 +57,8 @@ router.post('/shorten', async (req,res) => {
 
   }else {
     //If the Long URL is not valid
-    return res.status(401).json('URL not found');
+    // See if return is required
+    return res.status(401).json('Long URL not found');
     }
 })
 module.exports = router;
