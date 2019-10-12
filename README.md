@@ -15,8 +15,8 @@
 
 /*
 
-# Successful message shows the new custom Short URL created.
+#Successful message shows the new custom Short URL created.
 
-# Hit the generated short URL from the response in any browser!
+#Hit the generated short URL from the response in any browser!
 
-# - Ajay Shanmuganathan
+#- Ajay Shanmuganathan
