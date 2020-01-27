@@ -3,6 +3,7 @@
 const express = require('express');
 const router = express.Router();
 
+console.log('Starting express - 1');
 const Url = require('../model/Url');
 // GET /:code - Sending only the URL and no request ( Why we are using GET method)
 // @DESC Going to redirect the short code url to the respectice long codeurl in the db
